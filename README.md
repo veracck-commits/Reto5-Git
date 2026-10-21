@@ -1,2 +1,3 @@
 # Reto5-Git
 Practica del reto 5 de Git
+Cambio realizado directamente desde GitHub para el punto c del reto.
